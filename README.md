@@ -1,4 +1,4 @@
-#Big Data Playground
+# Big Data Playground
 A shy attempt to document what is needed to make a Big Data playground on AWS.
 
 ## Goals
