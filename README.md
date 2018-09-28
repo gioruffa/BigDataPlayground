@@ -28,3 +28,8 @@ systems like cassandra where all nodes will be used
 ## WHY?
 Because it is the most effective way to learn something. And I wanted to play more
 with AWS.
+
+## Various
+Why not using [Terraform](https://www.terraform.io/)? Because sometimes I prefer
+a bottom-up approach. I think that for system and networks stuff it is much better
+to know how the nuts and bolts works and then build a car factory.
